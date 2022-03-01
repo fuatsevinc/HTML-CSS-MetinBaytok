@@ -1,2 +1,2 @@
-# Sass_Project
-Metin Baytok Portfolio Web sitesi
+#Metin Baytok Portfolio Web sitesi
+burada bir portfolio sitesi olusturuyoruz
